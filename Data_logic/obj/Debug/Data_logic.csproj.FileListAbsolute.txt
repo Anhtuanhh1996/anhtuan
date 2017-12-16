@@ -1,0 +1,5 @@
+D:\Đồ_án_tốt_nghiệp\BiByShop1\Data_logic\bin\Debug\Data_logic.dll
+D:\Đồ_án_tốt_nghiệp\BiByShop1\Data_logic\bin\Debug\Data_logic.pdb
+D:\Đồ_án_tốt_nghiệp\BiByShop1\Data_logic\obj\Debug\Data_logic.csprojResolveAssemblyReference.cache
+D:\Đồ_án_tốt_nghiệp\BiByShop1\Data_logic\obj\Debug\Data_logic.dll
+D:\Đồ_án_tốt_nghiệp\BiByShop1\Data_logic\obj\Debug\Data_logic.pdb

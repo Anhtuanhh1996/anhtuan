@@ -1,0 +1,10 @@
+D:\Đồ_án_tốt_nghiệp\BiByShop1\Business_logicTests1\bin\Debug\Business_logicTests1.dll
+D:\Đồ_án_tốt_nghiệp\BiByShop1\Business_logicTests1\bin\Debug\Business_logicTests1.pdb
+D:\Đồ_án_tốt_nghiệp\BiByShop1\Business_logicTests1\bin\Debug\Business_logic.dll
+D:\Đồ_án_tốt_nghiệp\BiByShop1\Business_logicTests1\bin\Debug\Data_logic.dll
+D:\Đồ_án_tốt_nghiệp\BiByShop1\Business_logicTests1\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Đồ_án_tốt_nghiệp\BiByShop1\Business_logicTests1\bin\Debug\Business_logic.pdb
+D:\Đồ_án_tốt_nghiệp\BiByShop1\Business_logicTests1\bin\Debug\Data_logic.pdb
+D:\Đồ_án_tốt_nghiệp\BiByShop1\Business_logicTests1\obj\Debug\Business_logicTests1.csprojResolveAssemblyReference.cache
+D:\Đồ_án_tốt_nghiệp\BiByShop1\Business_logicTests1\obj\Debug\Business_logicTests1.dll
+D:\Đồ_án_tốt_nghiệp\BiByShop1\Business_logicTests1\obj\Debug\Business_logicTests1.pdb
